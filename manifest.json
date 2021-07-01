@@ -3,10 +3,11 @@
     "description": "Search for anything on YouTube by selecting the text and right clicking.",
     "version": "1.0",
     "icons": { 
-        "16": "/icons/play-icon/16x16.png",
-        "32": "/icons/play-icon/32x32.png",
-        "48": "/icons/play-icon/48x48.png",
-        "128": "/icons/play-icon/128x128.png"
+        "16": "/icons/16x16.png",
+        "32": "/icons/32x32.png",
+        "48": "/icons/48x48.png",
+        "128": "/icons/128x128.png",
+        "150": "/icons/150x150.png"
     },
     "manifest_version": 3,
     "background": {
